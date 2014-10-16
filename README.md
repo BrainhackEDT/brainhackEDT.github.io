@@ -1,4 +1,4 @@
-brainhackEDT.github.io
-======================
+preprocessed-connectomes-project.github.io
+==========================================
 
-Main webpage for brainhackEDT
+preprocessed-connectomes-project.github.io
