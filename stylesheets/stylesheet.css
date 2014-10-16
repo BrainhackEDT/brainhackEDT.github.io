@@ -53,7 +53,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   /*background: #212121 url("../images/big_mont.jpg") no-repeat 0 0;*/
-  background:#d6c9b8;
+  background:#333;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -104,7 +104,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #d75920;
+  color: #9a1d0d;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -296,7 +296,7 @@ Full-Width Styles
 #container {
     
       /*background: #2d1318;*/
-      background: #333;
+      background: #eee;
       /*min-height: 595px;*/
 
       width: 860px;
@@ -306,9 +306,9 @@ Full-Width Styles
       -ms-border-radius: 8px;
       -o-border-radius: 8px;
       border-radius: 8px;
-      -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
-      -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
-      box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
+      -webkit-box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
+      -moz-box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
+      box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
 
 }
 
@@ -432,11 +432,12 @@ color:#555;
 }
 
 #header_wrap {
-  background: #d75920;
+  background: #333;
+  padding-left: 40px;
 }
 
 #header_wrap .inner {
-  padding: 40px 10px 1px 10px;
+  padding: 10px 5px 1px 10px;
 }
 
 #header_wrap .nav-global li {
@@ -628,7 +629,8 @@ Small Device Styles
   display: none;
 }
 #cssmenu {
-  background: #d75920
+  background: #333;
+  color: #6ebd43;
 }
 #cssmenu > ul > li {
   float: left;
@@ -649,15 +651,15 @@ Small Device Styles
 }
 #cssmenu > ul > li > a {
   padding: 8px;
-  color: #fff;
+  color: #6ecd33;
   font-size: 24px;
-  font-weight: 500;
+  font-weight: 600;
   text-decoration: none;
   /*font-weight: 700;
   text-transform: uppercase;*/
 }
 #cssmenu > ul > li:hover > a {
-  color: #ffffff;
+  color: #6efd33;
 }
 /*
 #cssmenu > ul > li.has-sub > a {
@@ -732,9 +734,9 @@ Small Device Styles
   width: 160px;
   font-size: 20px;
   text-decoration: none;
-  color: #fff;
+  color: #6ecd33;
   font-weight: 500;
-  background: #d75920;
+  background: #333;
 }
 #cssmenu ul ul li:last-child > a,
 #cssmenu ul ul li.last-item > a {
@@ -742,7 +744,7 @@ Small Device Styles
 }
 #cssmenu ul ul li:hover > a,
 #cssmenu ul ul li a:hover {
-  color: #ffffff;
+  color: #6efd33;
 }
 #cssmenu ul ul li.has-sub > a:after {
   position: absolute;
