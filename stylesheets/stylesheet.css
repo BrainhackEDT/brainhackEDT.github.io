@@ -433,13 +433,13 @@ color:#555;
 
 #header_wrap {
   background: #333;
-  padding-left: 40px;
+  padding-left: 0px;
   padding-bottom: 20px;
 }
 
-#header_wrap .inner {
+/*#header_wrap .inner {
   padding: 10px 5px 1px 10px;
-}
+}*/
 
 #header_wrap .nav-global li {
   display: inline-block;

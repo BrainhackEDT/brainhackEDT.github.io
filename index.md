@@ -13,76 +13,15 @@ title: Homepage
 Brainhack is unconventional – the event eschews a prearranged schedule of scientific sessions and instead structures activities onsite based on the interests of the community. This model encourages active participation and interaction between attendees.
 
 Regional Brainhack events will span 2 days and are comprised of several unique components:
+
 - **Welcome reception and icebreaker:** Opportunity for attendees to get to know each other and to identify scientific challenges they would like to tackle during Brainhack.
 - **Ignite sessions:** Brief talks to inspire attendees and set the pace for the rest of the day
 - **Open hacking sessions:** Most conference time will be devoted to these sessions during which attendees collaborate on neuroscientific projects.
 - **Unconference sessions:** Oral presentations by attendees that are dynamically scheduled onsite.
 - **Presentations and wrap up:** Reporting on progress made on each project and a summary of the event.
 
-The schedule across sites will be synchronized so that Ignite and Unconference sessions can be broadcast between event locations. Time for meals has not been explicitly included in the schedule - attendees are encouraged to have working meals with food from local establishments.
-
 <h2><span style="color: #993300">Schedule</span></h2>
-<table border="0">
-<tbody>
-<tr>
-<td colspan="2"><strong>Saturday, October 18, 2014</strong></td>
-</tr>
-<tr>
-<td width="30%">08:30</td>
-<td>Attendee Arrival</td>
-</tr>
-<tr>
-<td>09:00</td>
-<td>Welcome reception and icebreaker</td>
-</tr>
-<tr>
-<td>10:00</td>
-<td>Ignite Talk</td>
-</tr>
-<tr>
-<td>10:15</td>
-<td>Open Hacking</td>
-</tr>
-<tr>
-<td>13:30</td>
-<td>Unconference Session</td>
-</tr>
-<tr>
-<td>15:00</td>
-<td>Open Hacking</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"><strong>Sunday, October 19, 2014</strong></td>
-</tr>
-<tr>
-<td>09:00</td>
-<td>Ignite Session</td>
-</tr>
-<tr>
-<td>09:15</td>
-<td>Open Hacking</td>
-</tr>
-<tr>
-<td>11:00</td>
-<td>Unconference Session</td>
-</tr>
-<tr>
-<td>12:30</td>
-<td>Open Hacking</td>
-</tr>
-<tr>
-<td>17:00</td>
-<td>Project Summaries and Wrap-up</td>
-</tr>
-<tr>
-<td>18:30</td>
-<td>Adjourn</td>
-</tr>
-</tbody>
-</table>
+The schedule will vary by site, but will start around 9AM on each day, and continue as long as there is interest. Please refer to a Regional Event's webpage (using the links in the pull down menu in the header) for site specific details.
 
 <h2><span style="color: #993300">Who comes to Brainhack?</span></h2>
 Brainhack attendees come from a wide variety of backgrounds and are interested in working together on projects related to brain science. Although the nature of the Brainhack makes it most amenable to projects that can be completed with a computer, effective contribution is not limited to those with computational backgrounds. Brainhack welcomes expertise from all fields, including but not limited to: engineering, math and computer science, neuroscience, psychology, psychiatry, neurology, art, and philosophy – from undergraduate students to established principal investigators. All have found opportunities to make valuable contributions to the Brainhack.
