@@ -13,6 +13,7 @@ title: Homepage
 Brainhack is unconventional – the event eschews a prearranged schedule of scientific sessions and instead structures activities onsite based on the interests of the community. This model encourages active participation and interaction between attendees.
 
 Regional Brainhack events will span 2 days and are comprised of several unique components:
+
 - **Welcome reception and icebreaker:** Opportunity for attendees to get to know each other and to identify scientific challenges they would like to tackle during Brainhack.
 - **Ignite sessions:** Brief talks to inspire attendees and set the pace for the rest of the day
 - **Open hacking sessions:** Most conference time will be devoted to these sessions during which attendees collaborate on neuroscientific projects.
