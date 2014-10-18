@@ -47,7 +47,7 @@ title: WashingtonDC
 </tr>
 <tr>
 <td>10:00</td>
-<td>Ignite Talk #1: <strong>Dan Hall</strong>, National Database for Autism Research<a href="" target="_blank">click here to tune in.</a></td>
+<td>Ignite Talk #1: <strong>Dan Hall</strong>, National Database for Autism Research<a href="https://plus.google.com/events/ceo2c9a5k281av3lvd1fdf88dhc" target="_blank">click here to tune in.</a></td>
 </tr>
 <tr>
 <td>10:15</td>
@@ -55,7 +55,7 @@ title: WashingtonDC
 </tr>
 <tr>
 <td>13:30</td>
-<td>Unconference Session, <a href="" target="_blank">click here to tune in.</a></td>
+<td>Unconference Session, <a href="https://plus.google.com/events/ceo2c9a5k281av3lvd1fdf88dhc" target="_blank">click here to tune in.</a></td>
 </tr>
 <tr>
 <td>15:00</td>
@@ -83,7 +83,7 @@ title: WashingtonDC
 </tr>
 <tr>
 <td>10:15</td>
-<td>Unconference Session, <a href="" target="_blank">click here to tune in.</a></td>
+<td>Unconference Session, <a href="https://plus.google.com/events/ceo2c9a5k281av3lvd1fdf88dhc" target="_blank">click here to tune in.</a></td>
 </tr>
 <tr>
 <td>11:00</td>
@@ -91,7 +91,7 @@ title: WashingtonDC
 </tr>
 <tr>
 <td>17:00</td>
-<td>Project Summaries and Wrap-up, <a href="" target="_blank">click here to tune in.</a></td>
+<td>Project Summaries and Wrap-up, <a href="https://plus.google.com/events/ceo2c9a5k281av3lvd1fdf88dhc" target="_blank">click here to tune in.</a></td>
 </tr>
 <tr>
 <td>18:30</td>
