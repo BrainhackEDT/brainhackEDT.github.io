@@ -41,7 +41,7 @@ title: New York City
 <tr>
 <td>10:00</td>
 <td>Ignite Talk #1: <strong>Alan Anticevic, PhD</strong>, Assistant Professor, Department of Psychiatry, Yale University School of Medicine, 
-        <a href="" target="_blank">click here to tune in.</a></td>
+        <a href="https://plus.google.com/events/cd6jamku0d9mdfkcghm4qmr6vd4" target="_blank">click here to tune in.</a></td>
 </tr>
 <tr>
 <td>10:15</td>
@@ -49,7 +49,7 @@ title: New York City
 </tr>
 <tr>
 <td>13:30</td>
-<td>Unconference Session, <a href="" target="_blank">click here to tune in.</a></td>
+<td>Unconference Session, <a href="https://plus.google.com/events/cd6jamku0d9mdfkcghm4qmr6vd4" target="_blank">click here to tune in.</a></td>
 </tr>
 <tr>
 <td>15:00</td>
@@ -77,7 +77,7 @@ title: New York City
 </tr>
 <tr>
 <td>10:15</td>
-<td>Unconference Session, <a href="" target="_blank">click here to tune in.</a></td>
+<td>Unconference Session, <a href="https://plus.google.com/events/c37ojlajf9vaj7h3md71bbh94uc" target="_blank">click here to tune in.</a></td>
 </tr>
 <tr>
 <td>11:00</td>
@@ -85,7 +85,7 @@ title: New York City
 </tr>
 <tr>
 <td>17:00</td>
-<td>Project Summaries and Wrap-up, <a href="" target="_blank">click here to tune in.</a></td>
+<td>Project Summaries and Wrap-up, <a href="https://plus.google.com/events/c37ojlajf9vaj7h3md71bbh94uc" target="_blank">click here to tune in.</a></td>
 </tr>
 <tr>
 <td>18:30</td>
